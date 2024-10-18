@@ -1,0 +1,580 @@
+Pais;Continente;Periodos;Expansion;Deforestacion;Emisiones_CO2;Impulsores_deforestacion;Superficie_areas_protegidas
+Afganistan;Asia;A;5.6;5.6;0.9;5;0.3
+Albania ;Europa;A;15.6;11.9;6.75;6;162.1
+Alemania;Europa;A;11.33;5.83;7.1;4;3306
+Argelia;Africa;A;48.4;14.5;19.21;2;119
+Andorra;Europa;A;142.4;140.8;5.1;1;1452.59
+Angola;Africa;A;2.1;9.1;3.13;8;1453.2
+Antigua;America;A;108;100.8;30.51;3;4.1
+Arabia Saudita;Asia;A;90;104.7;64.4;4;1245.6
+Argentina;America;A;11;327.4;17.57;5;1747
+Armenia;Asia;A;14.7;20;8.45;3;98.7
+Australia;Oceania;A;405.5;632.3;72.16;1;22260.35
+Austria;Europa;A;10.3;7.79;34.5;1;729.08
+Azerbaiyan;Asia;A;43.25;0;8.3;7;371
+Bahamas;America;A;31;30;6.2;4;78.3
+Bahrein ;Asia;A;0.02;0.01;2.7;2;9.3
+Bangladesh;Asia;A;0;3.2;3.2;8;618.25
+Barbados;America;A;21.7;14;19.78;1;0.3
+Bielorrusia;Europa;A;33.31;7.2;25.91;1;1093.8
+Belgica;Europa;A;122.4;0;37.5;7;26.3
+Belice;America;A;0;6.79;5.93;4;756.15
+Benin;Africa;A;18.2;19.6;3.2;1;2522
+Butan;Asia;A;10.12;0.19;7.8;1;1104.2
+Bolivia ;America;A;-1.49;200.05;7.3;5;974.6
+Bosnia y Herzegovina ;Europa;A;114.3;104.7;31.46;8;0.32
+Botsuana;Africa;A;141.6;134.4;8.19;5;1713.11
+Brasil;America;A;1178.51;5129.3;13.58;4;140002.64
+Brunei Darussalam;Asia;A;117.6;96.6;70.45;3;19
+Bulgaria;Europa;A;36.2;0;25.65;8;572
+Burkina Faso;Africa;A;94.5;98.7;1.45;3;992
+Burundi;Africa;A;0;0;0.3;4;115
+Cabo Verde;Africa;A;3.14;2.84;5.19;5;3.45
+Camboya;Asia;A;95.1;94.5;3.5;8;3138
+Camerun;Africa;A;2;71.7;1.24;4;3935.22
+Canada;America;A;2.47;50.45;72.5;6;28206
+Chad;Africa;A;120;141.6;2.45;4;1733.75
+Chile;America;A;105.03;14.21;21.45;1;3690.2
+Colombia;America;A;21.56;214.33;6.58;6;12019.87
+Comoras;Africa;A;116.7;89.4;1.54;6;0
+Congo;Africa;A;0;12;5.68;2;3910
+Costa Rica;America;A;4.05;2.65;6.5;4;0
+Costa de marfil;Africa;A;71.7;108.9;1.85;7;1345.86
+Croacia;Europa;A;3.83;0.33;19.79;1;54
+Cuba;America;A;49.7;0;7.45;4;576
+Chipre;Asia;A;-7.7;16.1;22.54;6;16.84
+Chequia;Europa;A;4.2;10.5;41.78;7;129.77
+China;Asia;A;2673.74;312.76;38.65;4;25236.4
+Dinamarca;Europa;A;1.67;0.18;19.43;1;41.69
+Djibouti;Africa;A;0;0;1.25;5;0
+Dominica;America;A;14.7;24.5;10.56;1;21.4
+Ecuador;America;A;34.85;105.08;8.57;6;3186.49
+Egipto;Africa;A;18.2;4.9;10.45;1;851.3
+El Salvador;America;A;0;4.5;29.54;8;17
+Emiratos arabes Unidos ;Asia;A;10.7;0.2;60.43;5;321.4
+Eritrea;Africa;A;-3.5;18.2;0.67;4;107
+Eslovaquia;Europa;A;1.78;0.38;29.54;3;2.7
+Eslovenia;Europa;A;1.78;0.38;32.54;1;24.7
+España;Europa;A;150.84;5.7;21.45;3;14752.36
+Estados Unidos ;America;A;518.4;0;59.32;6;30225
+Estonia;Europa;A;16.05;6.34;51.54;2;486.09
+Eswatini;Africa;A;18.2;21.7;2.5;4;0
+Etiopia;Africa;A;19;92;0.2;2;0
+Federacion Rusa;Europa;A;586.71;0;5.2;4;17572.2
+Filipinas;Asia;A;110.4;109.6;6.12;1;1970.37
+Fiji;Oceania;A;7.7;14;1.67;6;0
+Finlandia;Europa;A;-18.27;2.09;31.3;6;3001.51
+Francia;Europa;A;12.6;16.2;14.4;7;488
+Gabon;Africa;A;9.68;14.74;19.54;6;3400
+Gambia;Africa;A;77.7;122.7;1.9;5;52.3
+Georgia;Europa;A;6.18;0;20.45;5;221.46
+Ghana;Africa;A;100.8;120.8;3.24;1;1487
+Grecia;Europa;A;1.4;-2.8;10.54;1;0
+Granada;America;A;9.1;18.9;0.5;1;2.32
+Guatemala;America;A;0;48.66;4.9;6;22.7
+Guinea;Africa;A;137.6;136;1.6;4;3006
+Guinea-Bissau ;Africa;A;-9.1;-0.7;0.75;3;27
+Guinea Ecuatorial;Africa;A;0;8.36;21.54;2;123.4
+Guayana;America;A;0;4.44;15.76;2;405
+Haiti;America;A;9.8;-6.3;1.23;3;31.46
+Honduras;America;A;2.53;22.81;1.5;1;0
+Hungria;Europa;A;13.95;1.43;18.65;3;451.68
+Islandia;Europa;A;1.48;0;38.4;6;0.6
+Islas Marshall;Oceania;A;2.8;-6.3;1.6;3;354.2
+Islas Salomon;Oceania;A;0;76.75;2.15;6;141.1
+India;Asia;A;820;629.5;6.45;3;13918
+Indonesia;Asia;A;806.92;969;9.34;2;52907.35
+Iran ;Asia;A;13.3;4.2;40;8;1069
+Irak;Asia;A;0.7;0;38.54;7;0
+Irlanda;Europa;A;9.62;0.62;45.6;4;139.6
+Israel;Asia;A;3.5;24.5;34.54;7;28
+Italia;Europa;A;14;4.2;21.54;7;3265
+Jamaica;America;A;4.42;0.68;10.54;8;129.06
+Japon;Asia;A;34.8;4.8;41.4;1;4421
+Jordania;Asia;A;7;9.8;11;1;24.1
+Kazajistan;Asia;A;34.8;20.4;52;1;943.8
+Kenia;Africa;A;104.8;96;1.27;7;1145.2
+Kiribati;Oceania;A;23.8;14;2.54;8;0
+Kuwait;Asia;A;0.14;0;75.56;7;6.2
+Kirguistan;Asia;A;4.88;0;7.8;8;78.25
+Letonia;Europa;A;13.51;0.4;16.3;6;533.31
+Libano;Asia;A;2.8;14;19.54;1;0
+Lesoto;Africa;A;96.8;128;1.13;3;5
+Liberia;Africa;A;0;30.26;0.94;5;0
+Libia;Africa;A;31.2;12;34.5;2;4.2
+Liechtenstein;Europa;A;0.21;0.21;9.43;4;1.75
+Lituania;Europa;A;15.14;0.14;22.54;4;454
+Luxemburgo;Europa;A;14;10.5;62.6;7;212
+Macedonia del Norte ;Europa;A;28.8;4.8;18.54;6;6987.5
+Madagascar;Africa;A;92.8;160.8;0.3;8;4752
+Malaui;Africa;A;0;42;0.3;4;757.9
+Malasia;Asia;A;140.8;122.4;32.5;8;2094.74
+Maldivas;Asia;A;0;0;20.21;3;0
+Mali;Africa;A;30;109;1.3;8;3900
+Malta;Europa;A;11.9;2.1;11.12;2;10.2
+Mauritania;Africa;A;35;40.44;2.45;7;48
+Mauricio;Africa;A;0.01;0.36;11.23;8;7.3
+Mexico;America;A;281.05;424.85;10.43;2;8032.32
+Micronesia;Oceania;A;7.2;14.4;2.2;7;5.2
+Monaco ;Europa;A;0;0;0.6;7;0
+Mongolia;Asia;A;0.25;8.25;35.5;8;2403.95
+Montenegro;Europa;A;8;18;5.2;1;83.9
+Marruecos;Africa;A;17.88;1.08;8.2;6;260.9
+Mozambique;Africa;A;45.44;267.03;0.43;4;12760.14
+Myanmar;Asia;A;27.45;370.15;2.4;3;0
+Namibia;Africa;A;8.4;19;8;1;1686
+Nauru ;Oceania;A;0;6.6;2.4;2;0
+Nepal;Asia;A;20;4.8;2.3;7;3366.4
+Noruega;Europa;A;5.4;6.5;34.5;1;430
+Nueva Zelanda;Oceania;A;17.8;18.03;29.5;8;3672
+Nicaragua;America;A;1.37;122.49;2.5;1;1644.72
+Niger;Africa;A;2.5;14.92;0.4;5;220
+Nigeria;Africa;A;0;163.31;1.8;1;2890.7
+Oman;Asia;A;26;9;67.5;2;2.8
+Paises Bajos;Europa;A;4;2.6;40.34;8;217
+Pakistan;Asia;A;12;23;4.6;1;321
+Palau;Oceania;A;10;4;2.56;7;0
+Panama;America;A;2.31;13.73;12.4;3;2021
+Paraguay;America;A;0;342.14;4.1;6;905.36
+Peru;America;A;25.48;150.28;1.4;4;16439
+Papua Nueva Guinea;Oceania;A;0;9.91;3.5;5;568.4
+Polonia;Europa;A;27.58;0.58;39.4;7;299.4
+Portugal;Europa;A;105;81.6;16.6;4;592.58
+Qatar ;Asia;A;2.8;7;31.5;6;0
+Reino Unido de Gran Bretaña e Irlanda del Norte;Europa;A;10.7;0.2;19.3;2;290
+Republica de Corea;Asia;A;0;8.9;5.23;3;413
+Republica de Moldova;Europa;A;4.81;1.8;1.8;3;66.1
+Republica Democratica del Congo;Africa;A;8;2;0.1;8;50.2
+Republica Popular Democratica de Corea ;Asia;A;1.96;23.19;3.89;2;8564.1
+Republica Democratica Popular Lao;Asia;A;17;11;29;7;3304.64
+Republica Dominicana;America;A;10.32;0.25;12.3;4;589.25
+Republica Unida de Tanzania;Africa;A;28;400;5.2;3;28508
+Rumania;Europa;A;15.08;0.18;25.6;7;1746
+Republica CentroAfricana;Africa;A;0;30;0.7;5;8900
+Ruanda;Africa;A;135.2;118.4;0.5;7;211
+Santa Lucia;America;A;4.2;10.5;13.4;2;9.31
+San Vicente y las Granadinas;America;A;-7.7;-4.2;11.7;1;13.13
+Samoa;Oceania;A;0;0;8.5;3;1.4
+San Marino;Europa;A;6;6.6;3.2;8;0
+Santo Tome y Principe;Africa;A;0;0.03;4.5;2;29.5
+Senegal;Africa;A;0;0;3.2;4;7313.43
+Serbia;Europa;A;25.3;0;2.9;6;452
+Seychelles;Africa;A;77.7;85.5;41.9;3;0
+Sierra Leona;Africa;A;99.6;102.3;0.7;3;112.1
+Singapur;Asia;A;0.21;0.14;45.9;3;3.35
+Somalia;Africa;A;0;76.75;1.1;2;910.3
+SudAfrica;Africa;A;362.6;399;50.6;8;225
+Sudan del Sur;Africa;A;-4.2;23.1;3.7;7;0
+Saint Kitts y Nevis;America;A;1.2;0.3;3.2;5;125.1
+Sri Lanka;Asia;A;209.54;381.7;6.1;7;637.26
+Sudan;Africa;A;209.54;381.7;3.1;6;4709
+Surinam;America;A;0.01;4.11;28.4;8;1891.7
+Suecia;Europa;A;11.82;20.82;15.2;6;2024.28
+Suiza;Europa;A;4.9;1.05;23.9;8;165
+Siria;Asia;A;51.05;46.18;8.4;8;14.3
+Tayikistan;Asia;A;6.3;2.1;2.9;8;0
+Tailandia;Asia;A;125.5;18;14.3;3;60.37
+Timor Oriental;Asia;A;13.3;10.5;2.2;2;256.4
+Togo;Africa;A;1.5;4.46;3.4;3;0
+Tonga;Oceania;A;2.1;11.9;7.6;4;0
+Trinidad y Tobago;America;A;6.3;4.34;3.9;7;19.5
+Tunez;Africa;A;5.6;11.9;15.6;6;74.16
+Turquia;Asia;A;94.85;1.38;2.4;3;6860.29
+Turkmenistan;Asia;A;10.5;3.5;56.3;8;12.7
+Tuvalu;Oceania;A;97.6;133.6;4.3;6;0
+Uganda;Africa;A;9.84;51.09;0.9;4;14.1
+Ucrania;Europa;A;12.6;2.8;14.5;3;1357
+Uruguay;America;A;36.89;0.66;10.6;5;16.27
+Uzbekistan;Asia;A;43.81;5;11.54;2;2800
+Vanuatu;Oceania;A;3.5;11.9;4.5;2;3.04
+Venezuela ;America;A;19.39;183.99;8.6;7;46879.32
+Vietnam;Asia;A;160.4;0;0.5;3;2002.28
+Yemen;Asia;A;107.2;131.2;0.7;6;31
+Zambia;Africa;A;0.45;36.25;2.3;5;31831
+Zimbabue;Africa;A;0;46.07;2.2;7;3076
+Afganistan;Asia;B;4.9;4.2;1.5;7;1.5
+Albania ;Europa;B;17.5;16.8;7;6;2.6
+Alemania;Europa;B;9;7;7.68;2;3521.52
+Argelia;Africa;B;9;1.4;18.84;1;119
+Andorra;Europa;B;123.2;121.6;5.4;6;1641
+Angola;Africa;B;1.4;11.2;3.7;4;1862
+Antigua;America;B;134.4;136;31.67;3;4.1
+Arabia Saudita;Asia;B;11;51;58.7;5;1002
+Argentina;America;B;19;242.4;12.6;1;1856
+Armenia;Asia;B;24;23;9.67;1;80
+Australia;Oceania;B;1126.52;416.84;75.1;3;23899.97
+Austria;Europa;B;9.4;5.8;35;7;852.23
+Azerbaiyan;Asia;B;90.72;81.64;8.74;8;371
+Bahamas;America;B;14;30;6.76;2;156.2
+Bahrein ;Asia;B;0.02;0;4.8;4;145.2
+Bangladesh;Asia;B;17.2;18.19;3.3;8;618.2
+Barbados;America;B;20.3;14.7;13.3;7;0.3
+Bielorrusia;Europa;B;24;4.1;27.5;7;1116
+Belgica;Europa;B;1.7;1.81;38.1;1;180.3
+Belice;America;B;0;11.71;6.54;4;762.6
+Benin;Africa;B;16.1;15.4;3.8;3;2522
+Butan;Asia;B;2.32;0.34;7.8;7;1104.2
+Bolivia ;America;B;-21.07;190.69;8.2;4;542.2
+Bosnia y Herzegovina ;Europa;B;85.8;75.3;31.6;3;0.2
+Botsuana;Africa;B;97.6;92;8.24;6;1600
+Brasil;America;B;328.62;1867.8;19.5;1;143329.05
+Brunei Darussalam;Asia;B;91.5;81.3;74.8;2;19
+Bulgaria;Europa;B;19.2;0;26.76;6;704
+Burkina Faso;Africa;B;87.9;82.8;1.5;5;983
+Burundi;Africa;B;17.14;0;0.3;4;115
+Cabo Verde;Africa;B;2.2;1.9;6.15;6;3.5
+Camboya;Asia;B;76.8;101.7;3.6;6;2800
+Camerun;Africa;B;2;58;1.34;2;3521.8
+Canada;America;B;0;41.3;70.3;8;29507
+Chad;Africa;B;130.4;108;2.5;6;1733.75
+Chile;America;B;185.43;11.27;21.75;8;3759.85
+Colombia;America;B;8.54;143.17;7.34;8;12273.89
+Comoras;Africa;B;114;117.9;1.23;1;0
+Congo;Africa;B;0;12;6.23;3;3910
+Costa Rica;America;B;16.37;0;3.1;6;1265.7
+Costa de marfil;Africa;B;113.4;85.5;2.53;3;1323.69
+Croacia;Europa;B;0.49;0.09;20.5;7;54
+Cuba;America;B;50.4;0;8.9;8;648
+Chipre;Asia;B;11.2;9.1;23.76;3;14
+Chequia;Europa;B;10.5;2.8;42.76;5;146.68
+China;Asia;B;2266.74;329.97;41.65;2;28543.1
+Dinamarca;Europa;B;7.9;0.26;22.1;5;41.85
+Djibouti;Africa;B;0;0;1.23;7;0.9
+Dominica;America;B;0.7;7.7;11.34;3;21.4
+Ecuador;America;B;54.33;96.13;9.23;6;3268.63
+Egipto;Africa;B;23.8;7.2;11.2;1;971
+El Salvador;America;B;0;4.5;29.34;4;17
+Emiratos arabes Unidos ;Asia;B;19.7;0.5;78.4;6;225
+Eritrea;Africa;B;23.8;-4.9;0.56;6;107
+Eslovaquia;Europa;B;0.5;0.3;30.13;2;554
+Eslovenia;Europa;B;0.5;0.3;34.1;4;257
+España;Europa;B;3.15;1.98;21.54;2;18412
+Estados Unidos;America;B;275;0;60.54;6;29754
+Estonia;Europa;B;28.23;11.23;52.5;6;498.34
+Eswatini;Africa;B;1.4;-5.6;3.8;6;16
+Etiopia;Africa;B;19;92;0.34;2;2.3
+Federacion Rusa;Europa;B;0;41.03;6.34;1;18000
+Filipinas;Asia;B;160;136;6.43;1;1840
+Fiji;Oceania;B;6.3;1.4;1.43;1;1.74
+Finlandia;Europa;B;33.94;0.54;31.54;3;2830.66
+Francia;Europa;B;14.4;13.2;15.8;7;3826
+Gabon;Africa;B;7.37;19.25;20.45;8;3400
+Gambia;Africa;B;73.8;88.2;3.8;5;22.24
+Georgia;Europa;B;0;0;22.8;4;273.7
+Ghana;Africa;B;96.8;136.8;3.56;4;1469
+Grecia;Europa;B;21.7;2.8;19.4;3;25.6
+Granada;America;B;-4.2;-1.4;0.2;4;2.1
+Guatemala;America;B;0;27.36;2.8;5;1895.66
+Guinea;Africa;B;113.6;119.2;1.1;2;2750
+Guinea-Bissau ;Africa;B;11.2;4.8;0.65;7;20
+Guinea Ecuatorial;Africa;B;0;8.36;22.54;2;98.4
+Guayana;America;B;0;11.69;16.56;8;1091
+Haiti;America;B;3.5;9.1;1.2;1;31.46
+Honduras;America;B;2.07;24.4;1.6;6;2102.88
+Hungria;Europa;B;4.44;1.55;19.54;7;458.41
+Islandia;Europa;B;0.7;0;38.4;1;0.61
+Islas Marshall;Oceania;B;21;21.7;2.54;8;25.7
+Islas Salomon;Oceania;B;0;76.75;2.13;2;80.5
+India;Asia;B;934.8;668.4;7.41;2;13983
+Indonesia;Asia;B;113.1;82.5;10.32;5;51782.01
+Iran ;Asia;B;7.7;8.4;40.54;6;1069
+Irak;Asia;B;0;0;40.7;1;2.4
+Irlanda;Europa;B;7.48;0.62;43.4;3;141.66
+Israel;Asia;B;9.1;20.3;43.9;3;36
+Italia;Europa;B;57.5;3.69;22;8;3265
+Jamaica;America;B;4.42;0.62;14.2;5;130.53
+Japon;Asia;B;22.8;6;72.8;5;4472
+Jordania;Asia;B;12.6;11.2;10.54;5;21.8
+Kazajistan;Asia;B;20.4;32.4;54.43;2;1079.4
+Kenia;Africa;B;104;111.2;1.23;3;1173.5
+Kiribati;Oceania;B;14;4.8;2.31;1;3.78
+Kuwait;Asia;B;0;0;78.9;3;10.3
+Kirguistan;Asia;B;4.43;0;7.2;5;94.85
+Letonia;Europa;B;4.17;0.31;17.5;3;544.2
+Libano;Asia;B;4.9;2.8;20;4;2.1
+Lesoto;Africa;B;124;92.8;1.32;5;7
+Liberia;Africa;B;0;30.26;1.1;3;17.9
+Libia;Africa;B;15.6;13.2;35.8;4;2.3
+Liechtenstein;Europa;B;0.21;0.21;10.1;5;3.8
+Lituania;Europa;B;3.54;0.14;23.43;5;460
+Luxemburgo;Europa;B;14;9.8;64.6;2;36.2
+Macedonia del Norte ;Europa;B;27.6;28.8;17.53;7;6500.2
+Madagascar;Africa;B;93.6;111.2;0.4;3;4973
+Malaui;Africa;B;0;42;0.4;7;800
+Malasia;Asia;B;144.8;139.2;34.7;5;3038.12
+Maldivas;Asia;B;0;0;20.51;4;4.7
+Mali;Africa;B;0;79;1.3;8;4189
+Malta;Europa;B;2.8;7.7;11.64;8;12.7
+Mauritania;Africa;B;37.35;42.79;3.55;8;48
+Mauricio;Africa;B;0.08;0.1;11.66;8;14.83
+Mexico;America;B;89.13;211.61;11.62;6;8025.51
+Micronesia;Oceania;B;2.4;32.4;2.3;7;125.1
+Monaco ;Europa;B;0;0;0.5;5;125.3
+Mongolia;Asia;B;0.41;1.52;36.7;6;2976.23
+Montenegro;Europa;B;28.2;28.2;5.2;5;70
+Marruecos;Africa;B;10.74;8.72;8.61;7;230.5
+Mozambique;Africa;B;60.6;267.03;0.51;5;14477.2
+Myanmar;Asia;B;20.16;309.87;2.5;3;5.478
+Namibia;Africa;B;15;11;8;8;1897
+Nauru ;Oceania;B;0;7.2;3.1;1;145.1
+Nepal;Asia;B;0;4.2;2.4;1;4000
+Noruega;Europa;B;13.78;5.98;35.4;4;520
+Nueva Zelanda;Oceania;B;8.31;8.61;30.3;8;3566
+Nicaragua;America;B;5.03;61.15;4.5;4;1534.52
+Niger;Africa;B;2.5;14.92;0.43;7;220
+Nigeria;Africa;B;0;163.31;2.9;7;3145
+Oman;Asia;B;14;15;55.7;2;45.7
+Paises Bajos;Europa;B;2.79;4.52;49.1;5;220
+Pakistan;Asia;B;9;17;2.1;5;54.3
+Palau;Oceania;B;26;11;3.34;1;1.4
+Panama;America;B;1.1;12.52;11.4;4;3689
+Paraguay;America;B;0;414.25;2.9;4;1000
+Peru;America;B;17.45;188.5;7.6;4;18844
+Papua Nueva Guinea;Oceania;B;0;30.9;4.23;2;2500
+Polonia;Europa;B;18.82;0.62;28.5;1;3079.3
+Portugal;Europa;B;51.6;39.6;15.9;3;615.61
+Qatar ;Asia;B;5;24;31.4;8;351.2
+Reino Unido de Gran Bretaña e Irlanda del Norte;Europa;B;19.7;0.5;20.6;5;275.4
+Republica de Corea;Asia;B;0;10;6;8;445
+Republica de Moldova;Europa;B;3.31;0.93;2;1;80
+Republica Democratica del Congo;Africa;B;9;6;1.7;2;45.7
+Republica Popular Democratica de Corea ;Asia;B;1.96;23.19;4;1;7412.3
+Republica Democratica Popular Lao;Asia;B;11;23;2.7;1;142.1
+Republica Dominicana;America;B;24.6;18.49;11.3;2;145.2
+Republica Unida de Tanzania;Africa;B;0;372;5.1;8;28552.12
+Rumania;Europa;B;69.31;0.11;26.3;2;2606
+Republica CentroAfricana;Africa;B;0;30;0.3;2;1500
+Ruanda;Africa;B;152;92;0.8;3;420
+Santa Lucia;America;B;18.2;19.6;19.1;3;15.3
+San Vicente y las Granadinas;America;B;0;4.8;15.6;6;18
+Samoa;Oceania;B;0;0;7.5;4;18.95
+San Marino;Europa;B;4.2;7.2;4.3;4;7.2
+Santo Tome y Principe;Africa;B;0;0.62;3.6;2;57
+Senegal;Africa;B;11;51;1.9;5;7508.83
+Serbia;Europa;B;1.4;0.09;1.3;7;501
+Seychelles;Africa;B;89.1;79.5;53.1;7;1.86
+Sierra Leona;Africa;B;99.9;81.3;1.1;4;238.6
+Singapur;Asia;B;0.05;0.3;38.3;1;4
+Somalia;Africa;B;0;76.75;0.2;1;750
+SudAfrica;Africa;B;162.6;199;35.6;3;410
+Sudan del Sur;Africa;B;-7.7;22.4;2.6;2;1.65
+Saint Kitts y Nevis;America;B;2.4;2;2.8;8;101
+Sri Lanka;Asia;B;98.29;4.2;5.9;8;1241.26
+Sudan;Africa;B;98.29;6.6;1.8;6;4900
+Surinam;America;B;0.22;9.86;15.4;4;1890.3
+Suecia;Europa;B;19.55;38.15;14.2;2;2121.03
+Suiza;Europa;B;4.78;1.34;25.9;7;222
+Siria;Asia;B;15.49;11.94;7.2;5;13.2
+Tayikistan;Asia;B;11.2;8.4;1.9;1;124.3
+Tailandia;Asia;B;92;94.4;15.2;3;57.3
+Timor Oriental;Asia;B;3.5;2.8;2.6;6;54
+Togo;Africa;B;2;4.96;4.4;2;100
+Tonga;Oceania;B;11.2;2.8;5.9;6;0.3
+Trinidad y Tobago;America;B;2.95;1.42;3.5;8;20
+Tunez;Africa;B;9.1;11.2;15.1;7;75.33
+Turquia;Asia;B;110.47;1.03;4.7;8;7234
+Turkmenistan;Asia;B;8.4;7.7;58.8;5;24.3
+Tuvalu;Oceania;B;107.2;112.8;4.7;1;2.74
+Uganda;Africa;B;9.84;51.09;1.6;1;7.1
+Ucrania;Europa;B;1.4;8.4;14.5;8;1396
+Uruguay;America;B;39.57;1.83;9.4;4;38.89
+Uzbekistan;Asia;B;41;1.04;11.1;4;3150
+Vanuatu;Oceania;B;2.1;11.9;2.9;4;3.1
+Venezuela ;America;B;17.87;182.27;16.2;2;4057.32
+Vietnam;Asia;B;160.62;25.86;11.5;6;2106.51
+Yemen;Asia;B;97.6;110.4;1.8;4;38
+Zambia;Africa;B;1.5;189.68;4.4;6;31831
+Zimbabue;Africa;B;0;46.07;1.1;4;4000
+Afganistan;Asia;C;12.6;6.3;1.1;7;2.4
+Albania ;Europa;C;-7;23.8;7.58;4;49
+Alemania;Europa;C;7;7;8.06;4;4512.1
+Argelia;Africa;C;4;5.4;19.52;2;119
+Andorra;Europa;C;121.6;145.6;6;7;1862
+Angola;Africa;C;8.4;13.3;3.59;4;1345
+Antigua;America;C;98.4;143.2;33.25;8;2.48
+Arabia Saudita;Asia;C;11;51;80.12;6;1334
+Argentina;America;C;30;134.8;18.3;3;1928
+Armenia;Asia;C;32;32;10.76;6;86.89
+Australia;Oceania;C;119.4;87.9;74.2;4;24071.55
+Austria;Europa;C;9.4;5.81;36.05;4;878.4
+Azerbaiyan;Asia;C;100.52;86.36;8.9;1;371
+Bahamas;America;C;29;16;7.2;7;12.36
+Bahrein ;Asia;C;0.02;0;3.17;3;33
+Bangladesh;Asia;C;0;0;3.9;7;618.25
+Barbados;America;C;22.4;21;26.49;4;0.3
+Bielorrusia;Europa;C;30.32;3.5;30.3;8;5.2
+Belgica;Europa;C;1.5;1.5;39.31;5;757.23
+Belice;America;C;0;11.16;7;5;1.7
+Benin;Africa;C;14.7;10.5;3.5;8;2522
+Butan;Asia;C;2.41;0.43;8.2;2;1104.2
+Bolivia ;America;C;3.85;242.54;8.9;6;12431.69
+Bosnia y Herzegovina ;Europa;C;103.5;96.9;32.5;6;0.4
+Botsuana;Africa;C;112;121.6;8.34;5;0.9
+Brasil;America;C;242.66;1695.7;10.54;8;149577.21
+Brunei Darussalam;Asia;C;116.7;119.1;81;4;19
+Bulgaria;Europa;C;12;0;27.4;8;704
+Burkina Faso;Africa;C;82.5;111.9;1.7;4;974
+Burundi;Africa;C;0;0;0.3;7;115
+Cabo Verde;Africa;C;1.12;0.82;7.28;8;3.45
+Camboya;Asia;C;74.7;100.2;4.67;5;3138
+Camerun;Africa;C;2;58;1.43;6;3942.59
+Canada;America;C;0;37.52;72.95;2;29507
+Chad;Africa;C;121.6;107.2;0.48;5;1733.75
+Chile;America;C;132.32;9.4;22.67;5;3803.51
+Colombia;America;C;0.68;199.23;7.25;3;12445.31
+Comoras;Africa;C;79.2;114.9;1.43;5;2.3
+Congo;Africa;C;0;13.8;6.38;4;3910
+Costa Rica;America;C;16.37;0;7.7;4;1301.72
+Costa de marfil;Africa;C;80.4;80.7;2.73;3;5.4
+Croacia;Europa;C;3.47;0.05;20.9;6;55.2
+Cuba;America;C;11.6;0;9;5;648
+Chipre;Asia;C;24.5;6;24.62;6;17.35
+Chequia;Europa;C;4.2;9.1;43.47;6;3.74
+China;Asia;C;2069.99;133.2;41.27;6;30350.2
+Dinamarca;Europa;C;1.37;0.62;22.4;4;52.39
+Djibouti;Africa;C;0.2;0.16;1.4;3;0.9
+Dominica;America;C;23.1;8.4;11.62;4;21.4
+Ecuador;America;C;22.95;87.22;9.66;4;3258.67
+Egipto;Africa;C;8.4;-4.2;11.8;7;6521.3
+El Salvador;America;C;0;4.5;30.7;7;17
+Emiratos arabes Unidos ;Asia;C;106.5;102.3;80.62;5;321.8
+Eritrea;Africa;C;-7.7;15.4;0.72;7;107
+Eslovaquia;Europa;C;0;2.03;30.62;5;572
+Eslovenia;Europa;C;0;2.03;34.4;6;244.53
+España;Europa;C;7.94;3.74;22.83;3;19529.3
+Estados Unidos;America;C;104.4;90.9;67.35;7;31734.75
+Estonia;Europa;C;8.49;5.01;53.3;8;532.41
+Eswatini;Africa;C;5.6;16.1;5.05;4;2.5
+Etiopia;Africa;C;19;92;0.6;4;3.7
+Federacion Rusa;Europa;C;76.23;0;6.73;2;18522.22
+Filipinas;Asia;C;144.8;108.8;6.83;8;2025.89
+Fiji;Oceania;C;2.8;9.1;1.5;2;3.1
+Finlandia;Europa;C;12;93.3;32.9;1;2830.66
+Francia;Europa;C;15.6;1.2;26.64;4;3921
+Gabon;Africa;C;7.37;19.25;21.25;3;3400
+Gambia;Africa;C;81.9;84.6;1.15;3;22.24
+Georgia;Europa;C;0;0;16.62;5;315.86
+Ghana;Africa;C;148.8;135.2;3.83;4;1425
+Grecia;Europa;C;-5.6;9.8;23.94;3;5.48
+Granada;America;C;1.4;9.8;0.4;1;2.32
+Guatemala;America;C;0;11.6;4.93;7;1846.15
+Guinea;Africa;C;136;134.4;1.27;2;3006
+Guinea-Bissau ;Africa;C;7;6.6;0.75;3;26
+Guinea Ecuatorial;Africa;C;0;8.36;23.75;2;274
+Guayana;America;C;0;9.2;17;3;2.4
+Haiti;America;C;-3.5;3.5;1.3;8;31.73
+Honduras;America;C;2.28;23.19;4.3;8;2054.47
+Hungria;Europa;C;1.58;3.14;20.42;2;464.46
+Islandia;Europa;C;0.64;0;39.25;4;15.62
+Islas Marshall;Oceania;C;8.4;4.9;2.36;4;7.48
+Islas Salomon;Oceania;C;0;76.75;2.66;8;6.59
+India;Asia;C;934.8;668.4;8.63;8;14001
+Indonesia;Asia;C;71.06;650;10.63;5;51770.15
+Iran ;Asia;C;7;9.8;41.44;5;1510
+Irak;Asia;C;0;0;19.95;6;5.8
+Irlanda;Europa;C;6.09;0.62;33.7;6;145.17
+Israel;Asia;C;3.5;6;34.4;1;30
+Italia;Europa;C;24.5;27.6;25;1;3265
+Jamaica;America;C;4.43;0.54;12.4;7;132.01
+Japon;Asia;C;7.2;33.6;67.35;6;13.15
+Jordania;Asia;C;2.8;1.4;11.5;8;20.75
+Kazajistan;Asia;C;21.6;36;56;1;1121.8
+Kenia;Africa;C;112.8;110.4;1.84;8;9.82
+Kiribati;Oceania;C;0;6.6;2.95;2;0.85
+Kuwait;Asia;C;0;0;100.25;3;8.49
+Kirguistan;Asia;C;12.71;0;7.7;6;103.8
+Letonia;Europa;C;4.23;0.36;18.73;7;559.93
+Libano;Asia;C;13.3;11.2;20.25;5;5.4
+Lesoto;Africa;C;97.6;116;1.25;4;5
+Liberia;Africa;C;0;30.26;1.25;5;6.47
+Libia;Africa;C;20.4;4.8;36.26;3;5.47
+Liechtenstein;Europa;C;0.21;0.21;10.54;1;1.75
+Lituania;Europa;C;2.94;0.14;23.82;4;684
+Luxemburgo;Europa;C;2.8;8.4;67.55;7;5.47
+Macedonia del Norte ;Europa;C;28.8;9.6;17.16;6;7100.4
+Madagascar;Africa;C;132;160.8;0.9;4;4973
+Malaui;Africa;C;0;42;0.4;8;757.9
+Malasia;Asia;C;112.8;145.6;39.26;1;3438.07
+Maldivas;Asia;C;0;0;23.4;7;3.4
+Mali;Africa;C;0;0;1.5;1;2953.43
+Malta;Europa;C;14;12.6;18.87;4;0.04
+Mauritania;Africa;C;39.93;45.38;4.17;1;50
+Mauricio;Africa;C;0.21;0.12;14.87;3;4.7
+Mexico;America;C;38.05;165.82;15.2;6;9.5
+Micronesia;Oceania;C;14.4;34.8;2.54;5;6.3
+Monaco ;Europa;C;0;0;0.7;4;7.2
+Mongolia;Asia;C;0.41;1.52;38.2;3;2976.23
+Montenegro;Europa;C;12;12;5.5;3;83.9
+Marruecos;Africa;C;11.56;0;9.7;2;260.6
+Mozambique;Africa;C;27.78;267.03;1.13;2;15228.16
+Myanmar;Asia;C;4.21;293.92;3.6;6;7.07
+Namibia;Africa;C;7;27;7;7;1686
+Nauru ;Oceania;C;0;4.2;3;7;1.2
+Nepal;Asia;C;0;4.2;2.4;1;3442.1
+Noruega;Europa;C;13.62;5.82;38.2;7;610
+Nueva Zelanda;Oceania;C;15.78;6.58;34.39;6;3566
+Nicaragua;America;C;5.03;105.03;3.4;5;1338.17
+Niger;Africa;C;2.5;14.92;0.48;4;220
+Nigeria;Africa;C;0.01;163.31;2.1;3;2890.7
+Oman;Asia;C;5;10;82.1;5;3.4
+Paises Bajos;Europa;C;3.12;2.19;41.63;5;217
+Pakistan;Asia;C;3;22;4.59;2;1.6
+Palau;Oceania;C;18;14;3.56;2;2.4
+Panama;America;C;1.08;12.49;12.75;4;2021
+Paraguay;America;C;0;279.34;5.75;3;926.4
+Peru;America;C;6.26;179.09;6.5;6;22851
+Papua Nueva Guinea;Oceania;C;0;33.53;4.56;4;1360
+Polonia;Europa;C;13.37;0.77;35;1;3092.1
+Portugal;Europa;C;74.4;5.4;18.35;3;5.7
+Qatar ;Asia;C;18;30;32;5;9.4
+Reino Unido de Gran Bretaña e Irlanda del Norte;Europa;C;88.2;80.4;23.7;3;290
+Republica de Corea;Asia;C;0;10;6.2;7;435
+Republica de Moldova;Europa;C;0.36;0.34;2.1;2;75.85
+Republica Democratica del Congo;Africa;C;22;5;0.2;4;67
+Republica Popular Democratica de Corea ;Asia;C;1.96;23.19;4.4;3;1415.4
+Republica Democratica Popular Lao;Asia;C;24;16;2.7;6;2.4
+Republica Dominicana;America;C;3;29;11.66;8;815.3
+Republica Unida de Tanzania;Africa;C;5;474;5.34;4;28508
+Rumania;Europa;C;13.63;0.02;20.16;7;2606
+Republica CentroAfricana;Africa;C;0;30;0.28;5;45.78
+Ruanda;Africa;C;125.6;128;2.09;1;324.2
+Santa Lucia;America;C;23.1;10.5;18.2;1;1
+San Vicente y las Granadinas;America;C;-6.3;4.2;17.36;6;13.13
+Samoa;Oceania;C;0;0;8.33;6;2.59
+San Marino;Europa;C;6;6;0.4;3;1.34
+Santo Tome y Principe;Africa;C;0;0.62;3.48;5;29.5
+Senegal;Africa;C;11;51;3.27;8;7506.03
+Serbia;Europa;C;0.66;0.04;2.11;2;501
+Seychelles;Africa;C;82.2;90.9;53.64;1;3.14
+Sierra Leona;Africa;C;84.3;95.7;0.65;4;238.6
+Singapur;Asia;C;0.06;0.24;49.1;1;3.35
+Somalia;Africa;C;0;76.75;0.19;4;901.24
+SudAfrica;Africa;C;162.6;199;40.11;7;225
+Sudan del Sur;Africa;C;20.3;8.4;2.1;2;2.4
+Saint Kitts y Nevis;America;C;1;2;3.1;1;132.96
+Sri Lanka;Asia;C;93.92;4.8;6.21;2;1258.37
+Sudan;Africa;C;93.92;5.4;2.7;3;4709
+Surinam;America;C;0.57;11.65;22.64;2;1890.3
+Suecia;Europa;C;13.05;13.05;13.9;1;2165.93
+Suiza;Europa;C;4.78;1.34;22.54;2;222
+Siria;Asia;C;0.05;6.6;7.44;1;12.58
+Tayikistan;Asia;C;1.4;8.4;4.56;3;111.45
+Tailandia;Asia;C;0;37.6;19.75;2;53.6
+Timor Oriental;Asia;C;7.7;8.4;2.25;2;4.5
+Togo;Africa;C;2;4.96;2.3;5;195.9
+Tonga;Oceania;C;13.3;11.9;6.85;4;0.49
+Trinidad y Tobago;America;C;2.1;0.57;2.11;8;19.5
+Tunez;Africa;C;4.2;13.3;12.67;2;75.33
+Turquia;Asia;C;119.18;1.17;3.6;7;5.48
+Turkmenistan;Asia;C;13.3;3.5;74.14;8;2.59
+Tuvalu;Oceania;C;152.8;142.4;1.3;8;3.46
+Uganda;Africa;C;9.84;51.09;0.71;1;6.49
+Ucrania;Europa;C;11.2;3.5;23.19;2;1410
+Uruguay;America;C;4.8;6.6;9.38;5;38.89
+Uzbekistan;Asia;C;42.2;14.15;18.16;6;3540
+Vanuatu;Oceania;C;2.1;2.8;3.42;7;3.04
+Venezuela ;America;C;17.87;108.29;20;2;45605.22
+Vietnam;Asia;C;117.84;1.59;14.44;2;2177.75
+Yemen;Asia;C;152.8;92;1.94;3;31
+Zambia;Africa;C;1.5;189.71;2.07;6;31831
+Zimbabue;Africa;C;0;46.07;4.94;3;3076
